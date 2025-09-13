@@ -1,4 +1,4 @@
-💊 Machine Learning Pipeline for Warfarin Dose Prediction
+💊 **Machine Learning Pipeline for Warfarin Dose Prediction**
 
 📌 Project Overview
 This project focuses on building a machine learning pipeline to predict the therapeutic Warfarin dose for patients. 
@@ -13,7 +13,7 @@ anticoagulant therapy.
 
 ------------------------------------------------------------
 
-📂 Dataset
+📂 **Dataset**
 - Source: PharmGKB – International Warfarin Pharmacogenetics Consortium (IWPC)  
 - Description: The dataset contains patient-level demographic, clinical, and genetic information relevant to Warfarin dosing.  
 - Key Features:  
@@ -23,7 +23,7 @@ anticoagulant therapy.
 
 ------------------------------------------------------------
 
-🤖 Models Implemented
+🤖 **Models Implemented**
 We experimented with the following machine learning models:
 
 - K-Nearest Neighbors (KNN)  
@@ -35,7 +35,7 @@ Each model was trained and evaluated using a consistent preprocessing pipeline t
 
 ------------------------------------------------------------
 
-📊 Model Performance
+📊 **Model Performance**
 Evaluation was conducted using Mean Absolute Error (MAE), Mean Squared Error (MSE), and the R² score.
 
 | Model                          | MAE   | MSE   | R² Score |
@@ -50,14 +50,14 @@ greatest potential for accurate Warfarin dose prediction.
 
 ------------------------------------------------------------
 
-⚙️ Tech Stack
+⚙️ **Tech Stack**
 - Language: Python  
 - Libraries: scikit-learn, pandas, numpy, matplotlib, seaborn, TensorFlow/Keras  
 - Environment: Jupyter Notebook / VS Code  
 
 ------------------------------------------------------------
 
-🚀 How to Run
+🚀 **How to Run**
 1. Clone this repository:
    git clone https://github.com/Munazzah-Rakhangi/Machine-Learning-pipeline-for-Warfarin-Dosing-Prediction.git
    cd Machine-Learning-pipeline-for-Warfarin-Dosing-Prediction
@@ -72,7 +72,7 @@ greatest potential for accurate Warfarin dose prediction.
 
 ------------------------------------------------------------
 
-⭐ Acknowledgments
+⭐ **Acknowledgments**
 - International Warfarin Pharmacogenetics Consortium (IWPC) for providing the dataset.  
 - PharmGKB for maintaining open pharmacogenomics data resources.  
 - Inspiration drawn from the critical importance of personalized medicine in clinical practice.  
