@@ -6,7 +6,7 @@ Warfarin is widely prescribed as an anticoagulant, but dosing is challenging due
 and its narrow therapeutic index. Incorrect dosing can lead to severe bleeding or clotting events, making accurate 
 dose prediction critical for patient safety.
 
-To address this, we applied multiple supervised learning models to the International Warfarin Pharmacogenetics 
+To address this, I applied multiple supervised learning models to the International Warfarin Pharmacogenetics 
 Consortium (IWPC) dataset. The pipeline covers data preprocessing, model training, evaluation, and comparison, 
 with the aim of identifying the most reliable model for dose prediction and supporting the personalization of 
 anticoagulant therapy.
